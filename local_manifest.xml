@@ -7,7 +7,7 @@
            fetch="https://github.com/JaswantTeja" />   
 
 <!-- Sync trees -->
-<project path="device/realme/r5x" name="device_realme_r5x" remote="JaswantTeja" revision="Fusion" />
+<project path="device/realme/r5x" name="device_realme_r5x" remote="JaswantTeja" revision="fusion" />
 <project path="vendor/realme/r5x" name="vendor_realme_r5x" remote="JaswantTeja" revision="twelve" />
 <project path="kernel/realme/r5x" name="kernel_realme_r5x" remote="JaswantTeja" revision="twelve" />
 
